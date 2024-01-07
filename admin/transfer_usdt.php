@@ -45,7 +45,7 @@ $out_biz_no = date("YmdHis").rand(11111,99999);
 			</div></div>
 			<div class="form-group">
 				<div class="input-group"><div class="input-group-addon">收款地址</div>
-				<input type="text" name="payee_account" value="TENY7re3b4ELEbBYsrcnbuBtYQ6uysTJRN" class="form-control" required placeholder="TRC20地址"/>
+				<input type="text" name="payee_account" value="" class="form-control" required placeholder="TRC20地址"/>
 			</div></div>
 			<div class="form-group">
 				<div class="input-group"><div class="input-group-addon">转账金额</div>
